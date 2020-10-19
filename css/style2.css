@@ -25,12 +25,7 @@
 .nav {
     grid-area: na;
     background: deepskyblue;
-    margin: 5px;
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-   grid-template-rows: 1fr;
-
-    
+    margin: 5px;  
 }
 .article1 {
     grid-area: a1;
